@@ -1,0 +1,46 @@
+[ 
+	{
+		"department": "Administration",
+		"staff": ["Ed West", "Steve Heffernan","Lisa Boyd","Mike Hill","Keith Jones"]
+	},
+	{
+		"department": "Office",
+		"staff": ["Connie Kesinger","Julie Goulding","Terry Wilkinson","Shelly Thornton","Deb Carpenter","Steve Grant","Donna Proffitt","Teresa Arevalo","Becky Browning","Anita Nelson ","April Ramos ","Bryan Duncan","Joel Frederick","Tina Mitchell","Ken Hile"]
+	},
+	{
+		"department": "Mathematics",
+		"staff": ["Matt Baker","Allison Barkley","Lynda Bass","Kristin Harris","Brandon Hernandez","Shannon Hodges","Alison Jech","Thomas Lipp","Annette McDonald","Samantha Newlin","Molly Newman","Laura O\"Neil","Kathy Wagner","Dana Whetter"]
+	},
+	{
+		"department": "Science",
+		"staff": ["Kelly Barah","Kyle Ellis","Brad Greenwood","Stephanie Harris","Kiah Mattson","Julie McCormic","David Reber","Jordan Rose","Julie Schwarting","Brad Simon","Oather Strawderman"]
+	},
+	{
+		"department": "English",
+		"staff": ["Nancee Beilgard","Ashley Curtis","Elaine Elliott","Craig Hershiser","Cris Hunt","Jacob Larson","Theresa Martin","Laurie Martin-Frydman","Jason Moore","Sam Rabiola","Lynne Renick","Phyllis Schaeffer","Carol Spring","Linda Wedge","Brandon Wolak","Kylee Wright"]
+	},
+	{
+		"department": "History",
+		"staff": ["Matt Frost","Kim Grinnell","Rob Hassig","Linda Hyler","Laura Koenig","Chuck Law","Adam Leitel","Phil Mitchell","Jason Springer","Jake Thibodeau","Andrea York"]
+	},
+	{
+		"department": "Technology",
+		"staff": ["Don Clancy","Matt Gudenkauf","Nolan Henderson","Kerri Hess","Sandra Lawson","Rhonda Malcolm","Ben Mellen","Marsha Poholsky","Laura Priest","Jane Rock","Phil Roth","Tony Schwager","Scott Smith"]
+	},
+	{
+		"department": "Fine Arts",
+		"staff": ["Rachel Downs","Judy Erpelding","Randall Fillmore","Laurie Folsom","Meghan Hardy","Hilary Morton","Karen Musacchio","Jake Narverud","Don Stevanov"]
+	},				
+	{
+		"department": "Foreign Language",
+		"staff": ["Allison Barkley","Karen Gipson","Thomas Lipp","Peggy Nelson","Zach Puckett","Esther Romero","Paul Rosen","Jennifer Schmitt","Stu Strecker"]
+	},
+	{
+		"department": "Physical Education",
+		"staff": ["Nancy Hopkins","David Lawrence","Robert Lisher","Brett Oberzan","Pam Pine","Jayme Savage"]
+	},
+	{
+		"department": "Special Education",
+		"staff": ["Darrell Andrew","Rebecca Armstrong","Adam Barman","Emilie Block","Erin Campbell","Michael Colvin","LeAnn Cook","Amy Curtis","Patrick Dipman","Janice Fullerton","Teena Johnson","Jacob Larson","Lorna Larson","Layne Meyer","Anita Nelson","April Ramos","Rachael Statler","Cynthia Trarbach","Larry Wolf","Ron Swall"]
+	}	
+]

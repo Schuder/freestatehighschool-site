@@ -1,0 +1,54 @@
+[
+	{
+		"department": "Departments",
+		"description": "*Temporary Descriptive Text*"
+	}, 
+	{
+		"department": "Mathematics",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Science",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "English",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "History",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Technology",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Fine Arts",
+		"description": "*Temporary Descriptive Text*"
+	},				
+	{
+		"department": "Foreign Language",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Physical Education",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Special Education",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Library",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Athletics",
+		"description": "*Temporary Descriptive Text*"
+	},
+	{
+		"department": "Student Services",
+		"description": "*Temporary Descriptive Text*"
+	}		
+]
